@@ -1,7 +1,7 @@
 # Starbucks offer history analyzed:  who would respond to offers?
 
 ### Project motivation:
-In this project, Starbucks mobile app data were analyzed to discover customers' purchase behaviros.
+In this project, Starbucks mobile app data were analyzed to discover offer history and customers' purchase behaviros.
 
 
 
